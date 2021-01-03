@@ -2,6 +2,8 @@
 
 ## Problem Statement
 
+This capstone challenge is provided by the American Institute of Chemical Engineers (AICHE).
+
 ![Cover_Pic](https://github.com/leonz12345/ChemE_Captone/blob/main/Cover%20Photo/cheme_capstone_cover.png?raw=true)
 
 Ammonia accounts for 1-3% of the world’s energy consumption, 5% of natural gas
