@@ -37,9 +37,7 @@ Our final design utilized six ammonia synthesis modules run in parallel to meet 
 
 We recommend increasing the individual modular sizes and increase the production rate of each module. By doing so, we can further mitigate the effects of loss of economy of scale and increase our profit margins with increased production capabilities. The overall process will still be at a small-scale but because of the large demand in ammonia fertilizer in the Midwest region, we believe an increased production rate is justifiable. Additionally, better power purchase agreements could be negotiated to further reduce the cost of electricity from renewable wind energy and decrease utility/operating costs. An energy storage system can be built for the electrolysis system as well where energy will be stored to create a steady supply of electricity for the process. Since the electrolysis system is currently contributing to a large fraction of the capital and operating costs, other methods to produce hydrogen can be employed that are much cheaper; although, these methods may not result in reduced carbon emissions.
 
-[Final Report](https://github.com/leonz12345/ChemE_Captone/blob/main/Final%20Report/Final%20Report.pdf)
-
-[Final Presentation](https://github.com/leonz12345/ChemE_Captone/blob/main/Final%20Presentation/Final%20Presentation.pdf)
+For more details of our findings, please refer to our **report** [here](https://github.com/leonz12345/ChemE_Captone/blob/main/Final%20Report/Final%20Report.pdf) and **presentation** ([here]https://github.com/leonz12345/ChemE_Captone/blob/main/Final%20Presentation/Final%20Presentation.pdf).
 
 -- **Capstone Status: [Completed]**  <br />
 -- **Grade Recieved: 3.9/4.0**
