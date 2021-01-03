@@ -1,7 +1,8 @@
 # ChemE_Captone: Design of a Small-Scale Modular Anhydrous Ammonia Synthesis Process
 
-## About the Project
-[Capstone Final Report](https://dukeml.org/datathon/)
+## About this Capstone
+[Final Report](https://github.com/leonz12345/ChemE_Captone/blob/main/Final%20Report/Final%20Report.pdf)
+[Final Presentation](https://github.com/leonz12345/ChemE_Captone/blob/main/Final%20Report/Final%20Report.pdf)
 
 ![Methodology](https://github.com/MTang0728/Duke_Datathon_2020/blob/master/Documents/Methodology.png?raw=true)
 
