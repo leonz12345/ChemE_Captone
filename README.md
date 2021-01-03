@@ -1,4 +1,4 @@
-# ChemE_Captone: Design of a Small-Scale Modular Anhydrous Ammonia Synthesis Process
+# Chemical Engineering Captone: Design of a Small-Scale Modular Anhydrous Ammonia Synthesis Process
 
 ## Problem Statement
 
